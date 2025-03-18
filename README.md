@@ -22,4 +22,4 @@ Use as:
     );
 ```
 ,
-Where content is the sites content that requirest the main graphical processing, so NOT your container. You don't have to utilize and define Content, however refraining from doing so means that your site's content will get duplicated and after x load ins your site will become as slow as a snail.
+Where content is the sites content that requirest the main graphical processing, so NOT your container. You don't have to utilize and define Content, however refraining from doing so means that your site will become as slow as a snail.
