@@ -21,5 +21,4 @@ Use as:
         </InfiniteScrollWrap>
     );
 ```
-,
-Where content is the sites content that requirest the main graphical processing, so NOT your container. You don't have to utilize and define Content, however refraining from doing so means that your site will become as slow as a snail.
+Where content is the sites content that requires the main graphical processing, so NOT your container. You don't have to utilize and define Content, however refraining from doing so means that your site will become as slow as a snail.
