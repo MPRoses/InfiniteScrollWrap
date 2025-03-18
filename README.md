@@ -9,7 +9,6 @@ Use as:
                             <p>test text 1</p>
                         </Content>
                     </div>
-
                     <div className="Container">
                      <Content>
                         <p>test text 2</p>
